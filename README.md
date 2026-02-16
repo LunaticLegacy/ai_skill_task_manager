@@ -1,6 +1,6 @@
 # AI Skills: Task Manager
 
-这是一个用于规划和优化 AI Skills 的项目，包含以下功能：
+这是一个用于规划和优化任务的项目，包含以下功能：
 - `task-composer`: 生成项目任务分解结构（WBS）
 - `task-suggestor`: 根据现有数据提供优化建议
 
